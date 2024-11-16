@@ -1,2 +1,2 @@
 # PrevisaoTempoJava
-Previsão do tempo com java
+Projeto de Previsão do tempo utilizando a API Weather API
